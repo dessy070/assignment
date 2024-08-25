@@ -1,0 +1,187 @@
+body{
+    background: white;
+    background-position: center;
+    min-height: 100vh;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color: black;
+}
+
+.side-bar{  
+  width: 250px;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  overflow-y:auto;
+  transition: 0.6s ease;
+  transition-property: left;
+}
+
+.iopuy{
+    height: 5vh;
+    margin-top: 25px;
+}
+
+.iopuy h1{
+    font-size: 25px;
+    text-align: center;
+    margin: 5px 40px;
+    position: absolute;
+    letter-spacing: 2px;
+}
+
+.teds{
+    margin: 15px;
+}
+
+.menu{
+    width: 100%;
+    margin-top: 4rem;
+}
+
+.menu .item{
+   position: relative; 
+   cursor: pointer;
+}
+
+.menu .item a{
+    color: black;
+   font-size: 16px;
+   display: block;
+   padding: 5px 30px;
+   line-height: 30px;
+   text-decoration: none;
+}
+
+.cghf{
+    margin: 5px 30px;
+    background: white;
+}
+
+.dfrty{
+    margin: 30px;
+}
+
+.dark-mode {
+    background-color: rgb(46, 44, 44);
+    color: white;
+    outline-color: rgb(46, 44, 44) ;
+}
+
+.klopi{
+    padding-left: 18rem;
+    padding-right: 1rem;
+}
+
+.edsxc{
+    margin-top: 30px;
+    font-size: large;
+}
+
+.feyy{
+    width: 40px;
+    margin: 10px;
+}
+
+.bayut{
+    display: flex;
+}
+
+.fann{
+    width: 100%;
+}
+
+.fagg{
+    background-color: purple;
+}
+
+.jagh{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    margin-right: 20px;
+}
+
+.lavid{
+    outline-style: solid;
+    outline-width: 20px;
+    outline-color: #f1f1f1;
+}
+
+.pljhyo{
+    height: 110vh;
+    margin-top: 3rem;
+}
+
+.secs{
+    display: flex;
+    height: 30vh;
+}
+
+.asd{
+    position: relative;
+    padding: 15px;
+    width: 100%;
+}
+
+.img{
+    width: 50%;
+    padding-left: 20px;
+}
+
+#accept{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.sweru{
+    flex-grow: 7;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td{
+    border-top: 1px solid;
+}
+
+.clkj{
+    flex-grow: 3;
+    margin-left: 10px;
+}
+
+.forgb{
+    display: flex;
+    height: 10vh;
+    background-color: #f1f1f1;
+}
+
+.myuo{
+    padding-inline: 2rem;
+    margin-top: 0.5rem;
+}
+
+.oplkj{
+    display: flex;
+}
+
+.oga{
+    width: 100%;
+    height: 30vh;
+    padding: 10px;
+}
+
+.cfgh{
+    display: flex;
+}
+
+.nama{
+    margin-left: 15px;
+}
+
+.flop{
+    text-align: center;
+}
